@@ -1,3 +1,5 @@
+#Utilização de módulo ESP32, sensor DHT11 e relé
+#link do vídeo explicativo https://youtu.be/Cm3ZrcWioJY
 #código em python
 
 import dht
